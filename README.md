@@ -1,6 +1,6 @@
 # FinAPI
 
-This is a simple API developped with Node JS only for study purpouses, with the main objective as improve and consolidate the NodeJS + Express fundamentals.
+This is a simple API developed with Node JS only for study purpouses, with the main objective as improve and consolidate the NodeJS + Express fundamentals.
 
 ## Features
 - Create account;
